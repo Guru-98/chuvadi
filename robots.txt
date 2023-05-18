@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+Sitemap: https://guru98.github.io/chuvadi/sitemap.xml
