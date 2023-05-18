@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://blog.guru98.space"
+base_url = "https://guru98.github.io/chuvadi"
 title = "Ramblings of a Embedded Engineer"
 
 theme = "terminimal"
